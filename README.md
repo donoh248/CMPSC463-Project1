@@ -56,7 +56,7 @@ Below are screenshots demonstrating the functionality of the system:
    ![Anomaly Injection](CMPSC463-Project1/Anomaly Injection.png)
 
 2. **Report Output**: Generate the general information of the dataset.
-   ![Report Output](CMPSC463-Project1/Report Output.png)
+   ![Report Output](./"Report Output.png")
 
 ## Discussion of Findings
 
