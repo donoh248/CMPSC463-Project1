@@ -56,6 +56,7 @@ Below are screenshots demonstrating the functionality of the system:
    ![Anomaly Injection](./Anomaly_Injection.png)
 
 2. **Report Output**: Generate the general information of the dataset.
+   
    ![Report Output](./Report_Output.png)
 
 ## Discussion of Findings
