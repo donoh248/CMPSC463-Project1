@@ -53,10 +53,10 @@ python CMPSC463_Proj1.py
 Below are screenshots demonstrating the functionality of the system:
 
 1. **Injecting an anomaly into the dataset**: One price in the dataset if multiplied by a large amount to create an anomaly
-   ![Anomaly Injection](CMPSC463-Project1/Anomaly_Injection.png)
+   ![Anomaly Injection](CMPSC463-Project1/Anomaly Injection.png)
 
 2. **Report Output**: Generate the general information of the dataset.
-   ![Report Output](CMPSC463-Project1/Report_Output.png)
+   ![Report Output](CMPSC463-Project1/Report Output.png)
 
 ## Discussion of Findings
 
